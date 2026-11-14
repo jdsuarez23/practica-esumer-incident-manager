@@ -1,5 +1,7 @@
-# ESUMER Incident Manager
+# ESUMER Incident Manager - 31 octubre - 2026
+ el material de nuestra última Masterclass, en la que realizamos un repaso de los conceptos que hemos trabajado durante el diplomado.
 
+Repositorio de la masterclass:
 API REST didáctica para registrar y gestionar incidencias de TI. Incluye CRUD, filtros, paginación, comprobaciones de salud y documentación interactiva OpenAPI. La infraestructura y el despliegue forman parte del laboratorio y no se incluyen aquí.
 
 ## Requisitos
